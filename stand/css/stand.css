@@ -1,0 +1,31 @@
+html{
+  font-size: 10px;
+}
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.6rem;
+}
+
+.container{
+  max-width: 400px; 
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.stand-header{
+  padding: 20px;
+}
+
+h1 {
+  text-align: center; 
+  color: gold";
+}
+
+.hide-el{
+  display: none;
+}
+
+.pray__text{
+  margin: 20px 0;
+}
