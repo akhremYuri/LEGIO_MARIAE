@@ -8,13 +8,26 @@
 
   .print-setting {
     font-size: 7mm; 
-    max-width: 190mm;
+    max-width: 210mm;
     width: 100%;
     padding: 10mm;
     margin: 0 auto;
   }
 
+  .print-setting_small-font {
+    margin: 0;
+    text-align: left;
+    font-size: 4mm;
+  }
+
+  .print-setting_middle-font {
+    font-size: 9mm;
+  }
+
   .print-setting_large-font {
     font-size: 10mm;
   }
+
+  
+
 }
